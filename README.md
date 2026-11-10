@@ -8,7 +8,7 @@ Estudante de Sistemas de Informação na Una Betim, focado em desenvolvimento de
 
 ## 📂 Projetos
 - 💈 [AppBarbeariaV1](https://github.com/JoaovtDev7/AppBarbeariaV1) — Sistema de agendamento para barbearia (Java + Swing + MySQL)
-- 🤖 [AutomacaoCadastroProdutos](https://github.com/devjoaovt/AutomacaoCadastroProdutos) — Automação de cadastro de produtos em sistema web (Python + PyAutoGUI + Pandas)
+- 🤖 [Automa-oProdutos](https://github.com/devjoaovt/AutomacaoCadastroProdutos) — Automação de cadastro de produtos em sistema web (Python + PyAutoGUI + Pandas)
 
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreira-597a46212/) · joaoferreirapss1@gmail.com
